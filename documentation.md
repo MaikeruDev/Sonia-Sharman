@@ -1762,3 +1762,22 @@ Observation:
 * None of this proves involvement.
 * This could still be coincidence, shared aesthetic taste, or an unrelated artist with similar interests.
 * Current connection strength: circumstantial but worth tracking.
+
+### Sofia Debossan Pinterest Lead
+
+Potential profile:
+
+```text
+https://at.pinterest.com/sofiadebossan/
+```
+
+Observation from investigator:
+
+* Sofia's Pinterest appears to contain/support homosexual or LGBTQ-related themes.
+* This may be relevant because the Sonia Sharman ARG strongly involves sexuality, outing, homophobic bullying, and a lesbian relationship between Sonia and Lucy.
+
+Important caution:
+
+* This is only a thematic overlap.
+* It does not prove Sofia Debossan created or participated in the ARG.
+* The Pinterest page could not be independently verified in this environment because the site returned a `403 Forbidden` response.
