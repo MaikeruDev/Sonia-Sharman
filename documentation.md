@@ -26,6 +26,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Source 005: YouTube Short, posted 22.10.2020, likely `I HATE HER`
 * Source 006: YouTube Short, posted 22.10.2020, `MY REGRET IS THAT I KILLED MY GI`
 * Source 007: YouTube Short/Reel, posted 22.10.2020, `HAHAHAHAHAHA`
+* Source 008: Video, posted 23.10.2020, `IM GOING TO GO CRAZY WITHOUT L`
 
 ### Tracked Names / Entities
 
@@ -40,6 +41,7 @@ Collect, organize, and analyze all discovered ARG information.
 
 * `@selection1445`: asks several in-universe questions about Ratchel, Lucy, the police, and the car; has a related-looking YouTube video titled `leaving`.
 * `@juliettedebackere9599` / Isaac Debackere: asks about Sonia's crash and notices a date contradiction.
+* `@beckyginger782`: comments on Lucy and asks Sonia to stop communicating only in Morse; account joined 23.10.2020.
 * `u/aifosofiaaifos`: Reddit user who appears to have posted/found the Sonia Sharman channel; possible but unconfirmed ARG connection.
 
 ### Recurring Patterns
@@ -65,6 +67,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Do other YouTube accounts interact with Sonia Sharman in a way that is part of the ARG?
 * Is `@selection1445` part of the ARG or only an engaged viewer?
 * Is `@juliettedebackere9599` / Isaac Debackere part of the ARG or only an engaged viewer?
+* Is `@beckyginger782` part of the ARG or only an engaged viewer?
 * Is `u/aifosofiaaifos` connected to the ARG creator, or are the Portuguese/Chinese/profile-image overlaps coincidental?
 * What exactly is shown on the white blood-covered surface in Source 007?
 
@@ -1022,3 +1025,130 @@ IT WAS A TIME OF TENSION. I KILLED HER BECAUSE I WANTED HER SAFE, AND I DIDNT WA
 * Sonia says she met Lucy at an anime event.
 * Sonia mentions nightmares involving Lucy's screams.
 * Sonia says looking at Lucy's face at dawn comforts her, which may connect to earlier claims that Lucy's body is under Sonia's bed.
+
+---
+
+### Source 008 — Video Upload
+
+* Type: YouTube Video
+* Posted: 23.10.2020
+
+#### Video Title (Original Morse)
+
+```text
+.. -- / --. --- .. -. --. / - --- / --. --- / -.-. .-. .- --.. -.-- / .-- .. - .... --- ..- - / .-..
+```
+
+#### Title Translation
+
+```text
+IM GOING TO GO CRAZY WITHOUT L
+```
+
+#### Title Analysis
+
+* The title decodes mostly cleanly.
+* `L` likely refers to Lucy.
+* The title suggests grief, obsession, or dependency after Lucy's death.
+
+#### Video Description (Original Morse)
+
+```text
+.. / .-- .- . - / .... . .-. --..- / .--. .-.. . .- ... . / ... .-. .. -. --. / -- . / .-.. .. .-. -.- / ... . .-. -. / .. / .-. . . - / .. / -.-. . . - / -... . / .- .. - .... -- .. - / .... . .-. / ... .... . ... / . ...- . .-. .- - .... .. . --. / -... .. - / .. / .. -- . - / .- .- . - / .... . .-. / - -- / ... . / . ..-. .-. .- .. .. / -- ..-. / - . / ... .... . / .- .- ... / .- ..-. .-. .- .. .. / -- ..-. / - . / .. / -. . . -.. / -- -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.- / .-.. ..- .-. -.-
+```
+
+#### Description Translation
+
+Literal Morse decoding result:
+
+```text
+I WAET HER? PLEASE SRING ME LIRK SERN I REET I CEET BE AITHMIT HER SHES EVERATHIEG BIT I IMET AAET HER TM SE EFRAII MF TE SHE AAS AFRAII MF TE I NEED MK LURK LURK LURK [...]
+```
+
+#### Description Analysis
+
+The description is heavily corrupted. Recognizable or likely intended fragments include:
+
+```text
+I WANT HER?
+PLEASE BRING ME [LUCY?]
+I CAN'T BE WITHOUT HER
+SHE'S EVERYTHING
+BUT I [DON'T?] WANT HER TO BE AFRAID OF ME
+SHE WAS AFRAID OF ME
+I NEED MY [LUCY?]
+LURK LURK LURK [...]
+```
+
+Notes:
+
+* `AITHMIT` likely means `WITHOUT`.
+* `EVERATHIEG` likely means `EVERYTHING`.
+* `EFRAII MF TE` / `AFRAII MF TE` likely means `AFRAID OF ME`.
+* Repeated `LURK` may be corrupted `LUCY`, `LUCK`, or a deliberate repeated token.
+* The description reinforces obsessive grief and Lucy-focused language.
+
+#### Visual/Audio Observations
+
+* The video shows a room in low light.
+* Several small objects are lying around.
+* One larger object is visible but not identifiable.
+* On-screen text says:
+
+```text
+I miss her.
+```
+
+* A sound like a bike passing by, or something similar, can be heard.
+
+#### Comments
+
+`@beckyginger782` asks:
+
+```text
+What do you miss about Lucy?
+```
+
+Sonia replies:
+
+```text
+I MISS HER EYES, HER TOUCHES, HER LAUGHTER, AND WHEN SHE COVERED ME WITH THE BLANKET AND SAID THAT EVERYTHING WAS GOING TO BE OKAY. SHE ALSO TALKED ABOUT OUR WEDDING
+```
+
+`@beckyginger782` replies:
+
+```text
+This is so cool! She was a very special girl then!
+```
+
+Sonia replies:
+
+```text
+SHE WAS
+```
+
+`@beckyginger782` asks Sonia to stop communicating in Morse because translating everything is difficult, and says they want clearer communication as a friend.
+
+Sonia replies:
+
+```text
+Sure but my videos will continue in codes
+```
+
+`@beckyginger782` replies:
+
+```text
+You are a good girl!
+```
+
+#### Becky Ginger Account Note
+
+* New commenter: `@beckyginger782`.
+* Account joined: 23.10.2020.
+* No other notable account information found so far.
+
+#### Notes
+
+* The comments further confirm Lucy as the main object of grief/obsession.
+* The wedding topic appears again.
+* Sonia explicitly says her videos will continue in codes, confirming the coded format as intentional in-universe behavior.
