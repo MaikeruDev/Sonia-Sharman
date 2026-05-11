@@ -28,6 +28,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Source 007: YouTube Short/Reel, posted 22.10.2020, `HAHAHAHAHAHA`
 * Source 008: Video, posted 23.10.2020, `IM GOING TO GO CRAZY WITHOUT L`
 * Source 009: YouTube Short, posted 23.10.2020, `I LIED`
+* Source 010: YouTube Short/Reel, posted 24.10.2020, Portuguese title / staircase descent
 
 ### Tracked Names / Entities
 
@@ -72,6 +73,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Is `u/aifosofiaaifos` connected to the ARG creator, or are the Portuguese/Chinese/profile-image overlaps coincidental?
 * What exactly is shown on the white blood-covered surface in Source 007?
 * Which parts of Sonia's car/fire story were lies, and which parts are still meant to be true?
+* What does the Devanagari caption `कि अ` in Source 010 mean, if anything?
 
 ### Future Source Structure
 
@@ -1248,3 +1250,103 @@ thanks
 * Sonia now says the car was not burned, contradicting the earlier claim that she set the car on fire with the body inside.
 * Sonia says she lied to look cool.
 * Juliettedebackere continues to act as a sympathetic/empathetic commenter rather than hostile investigator.
+
+---
+
+### Source 010 — YouTube Short/Reel
+
+* Type: YouTube Short/Reel
+* Posted: 24.10.2020
+* Comments: None
+
+#### Title (Original Morse)
+
+```text
+. ... - --- ..- / .. -. -.. --- / .--. .- .-. .- / ..- -- / -.-. .- -- .. -. .... --- / ... . -- / .
+```
+
+#### Title Translation
+
+```text
+ESTOU INDO PARA UM CAMINHO SEM E
+```
+
+#### Title Analysis
+
+* The title is Portuguese.
+* Rough translation:
+
+```text
+I am going to a path/road without E
+```
+
+* The ending appears incomplete.
+* Possible intended phrase:
+
+```text
+ESTOU INDO PARA UM CAMINHO SEM ELA
+```
+
+which would mean:
+
+```text
+I am going down a path/road without her.
+```
+
+This is only a theory, but it fits the recurring grief/absence theme around Lucy.
+
+#### Description (Original Morse)
+
+```text
+.-.. ..- .-. -.- / .. ... / -. -- .. . --. / .- .. - .... / - . .-.-. / ... . ..-. -- .-. . / .. / .- .-. .-. .- . --. . -.. / .- .. - .... / - .- -.- .-. -- . / - -- / -. . - / .-. . ... . . --. . / -- . / ... -- - . / -... . .. / .--. . -- .--. .-.. . .-.-.- / .. - / .-- .. .-.. .-.. / ... . / ..-. .. -.
+```
+
+#### Description Translation
+
+Literal Morse decoding result:
+
+```text
+LURK IS NMIEG AITH TE? SEFMRE I ARRAEGED AITH TAKRME TM NET RESEEGE ME SMTE BEI PEMPLE. IT WILL SE FIN
+```
+
+#### Description Analysis
+
+The description is heavily corrupted. Possible recognizable fragments:
+
+```text
+[LUCY?] IS [GOING?] WITH ME?
+BEFORE I ARRANGED WITH [TAKRME / Maycon?] ...
+... SOME [BAD?] PEOPLE.
+IT WILL BE FINE.
+```
+
+Notes:
+
+* `LURK` may again be a corrupted form connected to Lucy, but this is not confirmed.
+* `AITH TE` likely means `WITH ME`.
+* `ARRAEGED` likely means `ARRANGED`.
+* `TAKRME` remains unclear, but may connect to the earlier malformed phrase where Maycon seemed to be involved.
+* `IT WILL SE FIN` likely means `IT WILL BE FINE`.
+
+#### Visual/Audio Observations
+
+* The camera shows a staircase going downstairs.
+* The scene is very dark.
+* The person appears to walk around slowly.
+* The person walks down the stairs slowly.
+* The audio becomes more intense as the person descends.
+* The audio is strange and fast, possibly resembling a TOHA-like instrument or fast percussion/string sound.
+
+#### On-Screen Caption
+
+The reel contains a visible caption:
+
+```text
+कि अ
+```
+
+Notes:
+
+* This appears to use Devanagari script.
+* No clear meaning is confirmed yet.
+* It may be another language clue, a text artifact, or a deliberate nonsense caption.
