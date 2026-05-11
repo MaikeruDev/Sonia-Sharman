@@ -45,3 +45,13 @@ For actual upload order, see the `Upload Timetable` section at the end of `docum
 This is an investigation log, not a finished explanation. Some connections are confirmed by evidence, while others are marked as theories or open questions.
 
 Any real people, usernames, or accounts mentioned should be treated carefully and respectfully. A connection to the ARG is not proof that someone created it or was involved in it.
+
+## Contact
+
+If anyone has news, clues, screenshots, context, or remembers anything related to this ARG, please message me on Discord:
+
+```text
+maikeru.dev
+```
+
+If multiple people are interested in investigating this together, I can create a Discord server.
