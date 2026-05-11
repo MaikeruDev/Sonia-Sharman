@@ -810,7 +810,7 @@ Interpretation notes:
 .Subscribe to Pewdiepie and SQUEEZIE. thanks.
 ```
 
-* A contact email is listed on the account. The investigator has written to ask whether they would answer questions.
+* A contact email is listed on the account. I wrote to ask whether they would answer questions.
 * Known activity connected to Sonia Sharman:
 
   * Commented on Source 006.
@@ -836,7 +836,7 @@ Potential relevance:
 ### Reddit Account — `u/aifosofiaaifos`
 
 * Reddit account age: about 5 years.
-* Karma/contributions observed by investigator:
+* Karma/contributions I observed:
 
   * about 2.3k karma
   * 335 contributions
@@ -1529,7 +1529,7 @@ I loved her
 
 ### Context
 
-The investigator contacted Isaac Debackere / `@juliettedebackere9599` by email after finding his YouTube comments on the Sonia Sharman videos.
+I contacted Isaac Debackere / `@juliettedebackere9599` by email after finding his YouTube comments on the Sonia Sharman videos.
 
 Isaac replied and confirmed that he remembers the Sonia Sharman channel.
 
@@ -1538,7 +1538,7 @@ Isaac replied and confirmed that he remembers the Sonia Sharman channel.
 * Date of contact: 11.05.2026
 * Isaac's current local time when replying: 11.05.2026, around 17:07
 * Isaac says he is French.
-* Investigator is in Austria, so both are in nearby/same European time zones.
+* I am in Austria, so both of us are in nearby/same European time zones.
 
 ### Isaac's First Reply Summary
 
@@ -1552,9 +1552,9 @@ Isaac says:
 * He remembers finding it because someone posted about it on a chat app that no longer exists.
 * The channel had apparently "just been found" at that time.
 
-### Investigator Follow-Up Summary
+### My Follow-Up Summary
 
-The investigator explained:
+I explained:
 
 * He found the channel and became curious whether it was an ARG, art project, or something else.
 * He asked about:
@@ -1695,7 +1695,7 @@ This table shows the apparent upload order of the Sonia Sharman videos/shorts, s
 
 ### Context
 
-The investigator commented on the Reddit post by `u/aifosofiaaifos` asking for the YouTube link to the video showing how her surrealism/paranoiac-critical-method artwork was made. The goal was to check whether the linked video or channel contained more possible clues.
+I commented on the Reddit post by `u/aifosofiaaifos` asking for the YouTube link to the video showing how her surrealism/paranoiac-critical-method artwork was made. The goal was to check whether the linked video or channel contained more possible clues.
 
 `u/aifosofiaaifos` replied with this link:
 
@@ -1714,7 +1714,7 @@ Observations:
 
 ### Sofia Debossan YouTube Channel
 
-After opening the linked video, the investigator checked the YouTube account and went to the oldest visible video:
+After opening the linked video, I checked the YouTube account and went to the oldest visible video:
 
 ```text
 https://www.youtube.com/watch?v=x6izU1GDvJA
@@ -1753,7 +1753,7 @@ Sofia Debossan video/profile reference image:
 
 Observation:
 
-* The investigator finds the two images visually similar.
+* I find the two images visually similar.
 * The Sonia image is very dark, but appears to show a close-up face/eye area with glasses.
 * The Sofia image is also a close-up face/eye area with glasses.
 * Sofia's image/reference is around 5 years older, so the comparison is very uncertain.
@@ -1771,7 +1771,7 @@ Potential profile:
 https://at.pinterest.com/sofiadebossan/
 ```
 
-Observation from investigator:
+My observation:
 
 * Sofia's Pinterest appears to contain/support homosexual or LGBTQ-related themes.
 * This may be relevant because the Sonia Sharman ARG strongly involves sexuality, outing, homophobic bullying, and a lesbian relationship between Sonia and Lucy.
