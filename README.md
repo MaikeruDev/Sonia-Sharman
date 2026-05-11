@@ -2,6 +2,12 @@
 
 This repository documents an ongoing investigation into the Sonia Sharman YouTube channel and related accounts.
 
+Channel link:
+
+```text
+https://www.youtube.com/@soniasharman5891/featured
+```
+
 I stumbled upon the channel by accident and started looking into it because it appeared to contain ARG-like clues, coded messages, strange comments, and connected accounts. The goal of this project is to preserve the evidence, decode messages, organize the timeline, and track possible connections without losing the order in which discoveries were made.
 
 ## Main Document
