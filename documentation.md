@@ -805,7 +805,7 @@ Interpretation notes:
 
 #### Profile Image Note
 
-Local image file: [juliettedebackere9599 pfp](</c:/Users/MiPrietl/Documents/Sharman/pictures/juliettedebackere9599/pfp.jpg>)
+![juliettedebackere9599 profile picture](pictures/juliettedebackere9599/pfp.jpg)
 
 Observed profile image:
 
@@ -833,13 +833,27 @@ Known/observed relevance:
 * A Google search for `aifosofiaaifos site:reddit.com` shows older posts that may still be indexed.
 * The account may be unrelated, an ARG discoverer, or potentially the ARG creator. Status: unconfirmed.
 
-#### Local Evidence Files
+#### Local Evidence Images
 
-* Profile image: [aifosofiaaifos pfp](</c:/Users/MiPrietl/Documents/Sharman/pictures/aifosofiaaifos/pfp.png>)
-* Reddit ARG/channel mention screenshot: [postaboutarg.png](</c:/Users/MiPrietl/Documents/Sharman/pictures/aifosofiaaifos/postaboutarg.png>)
-* Chinese/Backrooms search result screenshot: [chinesepost.png](</c:/Users/MiPrietl/Documents/Sharman/pictures/aifosofiaaifos/chinesepost.png>)
-* Surrealism/Portuguese art post screenshot: [paranoiapost.png](</c:/Users/MiPrietl/Documents/Sharman/pictures/aifosofiaaifos/paranoiapost.png>)
-* Comic image screenshot: [comiccover.png](</c:/Users/MiPrietl/Documents/Sharman/pictures/aifosofiaaifos/comiccover.png>)
+Profile image:
+
+![aifosofiaaifos profile picture](pictures/aifosofiaaifos/pfp.png)
+
+Reddit ARG/channel mention screenshot:
+
+![aifosofiaaifos Reddit ARG/channel mention](pictures/aifosofiaaifos/postaboutarg.png)
+
+Chinese/Backrooms search result screenshot:
+
+![aifosofiaaifos Chinese Backrooms post search result](pictures/aifosofiaaifos/chinesepost.png)
+
+Surrealism/Portuguese art post screenshot:
+
+![aifosofiaaifos surrealism Portuguese art post](pictures/aifosofiaaifos/paranoiapost.png)
+
+Comic image screenshot:
+
+![aifosofiaaifos comic image](pictures/aifosofiaaifos/comiccover.png)
 
 #### Profile Image Note
 
