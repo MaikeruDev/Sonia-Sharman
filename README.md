@@ -40,6 +40,19 @@ The main documentation follows discovery order unless a section explicitly says 
 
 For actual upload order, see the `Upload Timetable` section at the end of `documentation.md`.
 
+## Current State
+
+Quite a lot has already been deciphered and organized, especially Morse/code messages, comment threads, character names, and some related-account leads.
+
+However, the fundamentals are still missing. I still do not know for sure:
+
+* who created the Sonia Sharman channel
+* whether it was purely an ARG, an art project, roleplay, or something else
+* how the channel originally spread
+* whether the related accounts are part of the project or just early viewers
+* what the full intended story/timeline is
+* whether there are more hidden accounts, posts, or clues outside YouTube
+
 ## Notes
 
 This is an investigation log, not a finished explanation. Some connections are confirmed by evidence, while others are marked as theories or open questions.
