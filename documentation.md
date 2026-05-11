@@ -25,6 +25,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Source 004: Video, posted 08.11.2020, `How to commit a happy suicide`
 * Source 005: YouTube Short, posted 22.10.2020, likely `I HATE HER`
 * Source 006: YouTube Short, posted 22.10.2020, `MY REGRET IS THAT I KILLED MY GI`
+* Source 007: YouTube Short/Reel, posted 22.10.2020, `HAHAHAHAHAHA`
 
 ### Tracked Names / Entities
 
@@ -65,6 +66,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Is `@selection1445` part of the ARG or only an engaged viewer?
 * Is `@juliettedebackere9599` / Isaac Debackere part of the ARG or only an engaged viewer?
 * Is `u/aifosofiaaifos` connected to the ARG creator, or are the Portuguese/Chinese/profile-image overlaps coincidental?
+* What exactly is shown on the white blood-covered surface in Source 007?
 
 ### Future Source Structure
 
@@ -909,6 +911,114 @@ Possible significance:
 * May have been posted by `u/aifosofiaaifos`, or may simply appear in search results because the account commented or was indexed nearby.
 * Needs verification before treating it as connected.
 
-
-
 ---
+
+### Source 007 — YouTube Short/Reel
+
+* Type: YouTube Short/Reel
+* Posted: 22.10.2020
+
+#### Title
+
+Original Morse:
+
+```text
+.... .- .... .- .... .- .... .- .... .- .... .-
+```
+
+Decoded title:
+
+```text
+HAHAHAHAHAHA
+```
+
+#### Description
+
+Original Morse:
+
+```text
+.... .- .-.. . .- / .-. .- - .-. .... . .-...... . .-.. . .- / .-. .- - -.-. .... . .-..
+```
+
+Literal decode:
+
+```text
+HALEA RATRHE?ELEA RATCHEL
+```
+
+Description analysis:
+
+* The description is malformed.
+* `RATCHEL` is clearly present at the end.
+* The earlier corrupted fragments may also be attempts to write `Ratchel`, but this is uncertain.
+
+#### Visual/Audio Observations
+
+* Blood is visible on a white surface.
+* The exact object or surface is unclear.
+* A bark-like sound can be heard at the start.
+* Near the end, someone appears to be whining.
+
+#### Comments
+
+Only translated Morse comments are logged here for readability.
+
+`@juliettedebackere9599` asks:
+
+```text
+Why did you do that?
+```
+
+Sonia replies:
+
+```text
+THAT BITCH TOLD MY SEXUALITY TO THE WHOLE SCHOOL
+```
+
+`@juliettedebackere9599` replies in Morse:
+
+```text
+DAMN, THAT WASN'T NICE AT ALL. ARE YOU OKAY?
+```
+
+Sonia replies:
+
+```text
+I HAVE BEEN FEELING DEPRESSED SINCE THE MURDER OF MY LUCY. NO ONE DESERVED HEAVEN MORE THAN SHE DID. BEFORE I WANTED HER TO BE SAFE, BUT I NEVER IMAGINED SHE WOULD BE AS SAFE AS SHE IS NOW, IN THE CLOUDS
+```
+
+`@juliettedebackere9599` asks:
+
+```text
+I hope that you will get better soon. How was Lucy? How did you two meet?
+```
+
+Sonia replies:
+
+```text
+SHE WAS AN INCREDIBLE GIRL. SHE HELPED ME SO MUCH. WE MET AT AN ANIME EVENT. I HAD TO KILL HER AFTER SHE SAW ME KILLING RATCHEL. SHE WAS SO SCARED. EVERY DAY I HAVE NIGHTMARES WITH YOUR SCREAMS BUT WAKING UP AT DAWN AND LOOKING AT YOUR FACE MAKES ME MORE COMFORTABLE.
+```
+
+`@juliettedebackere9599` asks whether Sonia tried talking sense to Lucy before "sending her to heaven."
+
+Sonia replies:
+
+```text
+NO, SHE IS DEAD
+```
+
+`@juliettedebackere9599` clarifies that they meant whether Sonia tried talking to Lucy before killing her, and asks whether Sonia killed Lucy because she panicked.
+
+Sonia replies:
+
+```text
+IT WAS A TIME OF TENSION. I KILLED HER BECAUSE I WANTED HER SAFE, AND I DIDNT WANT HER TO BE TRAUMATIZED WHEN SHE SAW ME, SO I SENT HER TO HEAVEN
+```
+
+#### Notes
+
+* The comments reinforce that Ratchel outed Sonia's sexuality to the whole school.
+* Sonia again frames Lucy's death as protection or being "sent to heaven."
+* Sonia says she met Lucy at an anime event.
+* Sonia mentions nightmares involving Lucy's screams.
+* Sonia says looking at Lucy's face at dawn comforts her, which may connect to earlier claims that Lucy's body is under Sonia's bed.
