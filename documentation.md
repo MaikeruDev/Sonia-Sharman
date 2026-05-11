@@ -1688,3 +1688,77 @@ This table shows the apparent upload order of the Sonia Sharman videos/shorts, s
 | 2020-10-24 | `. ... - --- ..- / .. -. -.. --- / .--. .- .-. .- / ..- -- / -.-. .- -- .. -. .... --- / ... . -- / .` |
 | 2020-11-05 | `The end of the show`                                                                                  |
 | 2020-11-08 | `How to commit a happy suicide`                                                                        |
+
+---
+
+## Follow-Up Lead — `u/aifosofiaaifos` YouTube Links
+
+### Context
+
+The investigator commented on the Reddit post by `u/aifosofiaaifos` asking for the YouTube link to the video showing how her surrealism/paranoiac-critical-method artwork was made. The goal was to check whether the linked video or channel contained more possible clues.
+
+`u/aifosofiaaifos` replied with this link:
+
+```text
+https://youtu.be/MOGAWElj5Kw?si=FdeEYvr82TJsHjw8
+```
+
+### Portuguese Art Process Video
+
+Observations:
+
+* The video is entirely in Portuguese.
+* It shows/explains her drawing/art process.
+* This is notable because Portuguese appears in earlier Sonia Sharman clues.
+* No direct Sonia Sharman connection has been confirmed from this video yet.
+
+### Sofia Debossan YouTube Channel
+
+After opening the linked video, the investigator checked the YouTube account and went to the oldest visible video:
+
+```text
+https://www.youtube.com/watch?v=x6izU1GDvJA
+```
+
+Video details:
+
+* Title: `Chair - Sofia Debossan`
+* Approximate age: 1 year old at time of investigation.
+* Appears unrelated to the Sonia Sharman ARG.
+* Has a creepy vibe.
+* Uses the same type of music/sound style as some Sonia Sharman videos, or at least a very similar-feeling style.
+
+### Interpretation Notes
+
+* This makes `u/aifosofiaaifos` / Sofia Debossan feel more interesting as a possible creator lead.
+* The overlaps currently are:
+
+  * Portuguese language
+  * creepy/artistic visual style
+  * similar music/sound atmosphere
+  * the names `Sonia` and `Sofia` sound similar
+  * prior Reddit post surfacing the Sonia Sharman channel
+
+### Sonia / Sofia Profile Image Comparison
+
+Local comparison images:
+
+Sonia Sharman profile picture:
+
+![Sonia Sharman profile picture](pictures/sonia/pfp.jpg)
+
+Sofia Debossan video/profile reference image:
+
+![Sofia Debossan reference image](pictures/sofiadebossan/latestvideo.png)
+
+Observation:
+
+* The investigator finds the two images visually similar.
+* The Sonia image is very dark, but appears to show a close-up face/eye area with glasses.
+* The Sofia image is also a close-up face/eye area with glasses.
+* Sofia's image/reference is around 5 years older, so the comparison is very uncertain.
+* This is a vague visual impression only and should not be treated as identification.
+
+* None of this proves involvement.
+* This could still be coincidence, shared aesthetic taste, or an unrelated artist with similar interests.
+* Current connection strength: circumstantial but worth tracking.
