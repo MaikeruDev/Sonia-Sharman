@@ -29,11 +29,15 @@ Collect, organize, and analyze all discovered ARG information.
 * Source 008: Video, posted 23.10.2020, `IM GOING TO GO CRAZY WITHOUT L`
 * Source 009: YouTube Short, posted 23.10.2020, `I LIED`
 * Source 010: YouTube Short/Reel, posted 24.10.2020, Portuguese title / staircase descent
+* Source 011: Video, posted 24.10.2020, `RAIN`
+* Source 012: Video, posted 24.10.2020, `IM NOT ALONE`
+* Source 013: Video, posted 05.11.2020, `the end of the show`
 
 ### Tracked Names / Entities
 
 * Sonia Sharman: channel identity / possible narrator identity.
-* Maycon: Sonia's friend; Sonia claims he drove with her to burn Harley/Ratchel's corpse.
+* Maycon: Sonia's friend; Sonia claims he drove with her to burn Harley/Ratchel's corpse; later said to have gone back to his girlfriend's house.
+* Eleanore: new girl mentioned in Source 012; Sonia says Eleanore is helping her and may also have police problems.
 * Lucy: Sonia's girlfriend, described as beloved; Sonia claims Lucy was killed after witnessing Ratchel's death.
 * Ratchel / Harley Ratchel / HR: identified in comments as Sonia's cousin and murder victim; Sonia claims Ratchel bullied and outed her.
 * "Her": recurring female target/victim reference; may refer to Ratchel or Lucy depending on context.
@@ -1350,3 +1354,169 @@ Notes:
 * This appears to use Devanagari script.
 * No clear meaning is confirmed yet.
 * It may be another language clue, a text artifact, or a deliberate nonsense caption.
+
+---
+
+### Source 011 — Video Upload
+
+* Type: YouTube Video
+* Posted: 24.10.2020
+
+#### Video Title (Original Morse)
+
+```text
+.-. .- .. -.
+```
+
+#### Title Translation
+
+```text
+RAIN
+```
+
+#### Video Description (Original Morse)
+
+```text
+.. / .-.. .. . . / .. - .-.-.-
+```
+
+#### Description Translation
+
+Literal Morse decoding result:
+
+```text
+I LIEE IT.
+```
+
+#### Description Analysis
+
+* The description is slightly malformed.
+* Most likely intended reading:
+
+```text
+I LIKE IT.
+```
+
+* Less likely but possible because of the previous `I LIED` source: `I LIED IT.`
+
+#### Visual/Audio Observations
+
+* The camera looks out of a car window.
+* It is rainy.
+* Some cars are visible outside.
+* The sound is similar to Source 010, but slower.
+* No other special visual detail noted.
+
+---
+
+### Source 012 — Video Upload
+
+* Type: YouTube Video
+* Posted: 24.10.2020
+
+#### Video Title (Original Morse)
+
+```text
+.. -- / -. --- - / .- .-.. --- -. .
+```
+
+#### Title Translation
+
+```text
+IM NOT ALONE
+```
+
+#### Video Description (Original Morse)
+
+```text
+.. / - .... -- .. -. .... - / .. / .- .- ... / -. -- .. . --. / - -- / .-.. .. ...- . / .- .-.. -- -. . / -... .. - / .. - / .-- .. - .... / . .-.. . . . -- .-. . .-.-.- / ... .... . / .. ... / .- . / . - .- --.. .. -. --. / --. .. .-. .-.. / . . -.. / ... .... . / .. ... / .... . .-.. .--. .. -. --. / -- . / .- .. - .... / - .- -. -.- / - .... .. . --. ... .-.-. / ... .... . / .- .-.. ... -- / .... . .. / ... -- - . / .--. .-. -- ... .-.. . -- ... / .- .. - .... / - .... . / .--. -- .-.. .. -.-. . / . . -.. / .- . / .- .-. . / ... -- - .... / .... .. .. .. -. --. .-.-. / - .... .- - ... / . -- - / .-. -- --- .-.. ..--..
+```
+
+#### Description Translation
+
+Literal Morse decoding result:
+
+```text
+I THMINHT I AAS NMIEG TM LIVE ALMNE BIT IT WITH ELEEEMRE. SHE IS AE ETAZING GIRL EED SHE IS HELPING ME AITH TANK THIEGS? SHE ALSM HEI SMTE PRMSLEMS AITH THE PMLICE EED AE ARE SMTH HIIING? THATS EMT RMOL?
+```
+
+#### Description Analysis
+
+The description is corrupted but largely readable. Likely intended meaning:
+
+```text
+I THOUGHT I WAS GOING TO LIVE ALONE BUT [I'M] WITH ELEANORE.
+SHE IS AN AMAZING GIRL AND SHE IS HELPING ME WITH [MANY?] THINGS.
+SHE ALSO HAS SOME PROBLEMS WITH THE POLICE AND WE ARE BOTH HIDING?
+THAT'S NOT COOL?
+```
+
+Notes:
+
+* `ELEEEMRE` likely refers to `Eleanore`.
+* `PMLICE` follows the recurring `M` instead of `O` corruption pattern and likely means `POLICE`.
+* This introduces Eleanore as another person helping Sonia.
+
+#### Visual/Audio Observations
+
+* The camera films a plant in a pot in front of a window.
+* It is rainy outside.
+* Similar strange sounds to the previous sources can be heard again.
+
+#### Comments
+
+`@juliettedebackere9599` says they are happy Sonia is doing well and not alone, mentions Eleanore seems sweet, and asks what happened to Maycon.
+
+Sonia replies:
+
+```text
+He went back to his girlfriend's house, he doesn't live in his apartment anymore
+```
+
+#### Notes
+
+* New in-story person: Eleanore.
+* Eleanore may be helping Sonia hide or deal with the police.
+* Maycon is no longer with Sonia at this point, according to Sonia.
+* Maycon has a girlfriend and apparently had an apartment.
+
+---
+
+### Source 013 — Video Upload
+
+* Type: YouTube Video
+* Posted: 05.11.2020
+* Title:
+
+```text
+the end of the show
+```
+
+* Description:
+
+```text
+We can finally rest now. It was a good story after all :)
+```
+
+#### Visual/Audio Observations
+
+* The video shows the corner of a room.
+* There is a large amount of blood.
+* A female voice can be heard whining.
+* Blood splashes toward or into the corner.
+* Scratching sounds can be heard.
+
+#### Comments
+
+Sonia comments:
+
+```text
+I loved her
+```
+
+#### Notes
+
+* The title and description strongly frame this as a finale or closing scene.
+* `We can finally rest now` may refer to Sonia and Lucy, Sonia and Eleanore, the narrator and viewer, or the ARG itself.
+* The smiley in the description keeps the recurring cheerful/violent tonal contrast.
+* Sonia's comment likely refers to Lucy, but the exact "her" should remain context-dependent.
