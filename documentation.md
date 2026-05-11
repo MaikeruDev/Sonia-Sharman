@@ -16,6 +16,7 @@ Collect, organize, and analyze all discovered ARG information.
 ### Primary Account
 
 * YouTube: Sonia Sharman / `@soniasharman5891`
+* Channel URL: https://www.youtube.com/@soniasharman5891/featured
 
 ### Discovery Order Sources
 
@@ -94,6 +95,7 @@ Evidence is documented in discovery order from this point onward unless a sectio
 * Platform: YouTube
 * Channel Name: Sonia Sharman
 * Handle: `@soniasharman5891`
+* URL: https://www.youtube.com/@soniasharman5891/featured
 * Joined: 11.10.2020
 
 #### Channel Description (Original Morse)
@@ -1520,3 +1522,169 @@ I loved her
 * `We can finally rest now` may refer to Sonia and Lucy, Sonia and Eleanore, the narrator and viewer, or the ARG itself.
 * The smiley in the description keeps the recurring cheerful/violent tonal contrast.
 * Sonia's comment likely refers to Lucy, but the exact "her" should remain context-dependent.
+
+---
+
+## External Contact — Isaac Debackere
+
+### Context
+
+The investigator contacted Isaac Debackere / `@juliettedebackere9599` by email after finding his YouTube comments on the Sonia Sharman videos.
+
+Isaac replied and confirmed that he remembers the Sonia Sharman channel.
+
+### Contact Timeline
+
+* Date of contact: 11.05.2026
+* Isaac's current local time when replying: 11.05.2026, around 17:07
+* Isaac says he is French.
+* Investigator is in Austria, so both are in nearby/same European time zones.
+
+### Isaac's First Reply Summary
+
+Isaac says:
+
+* He goes by Isaac nowadays.
+* He remembers the Sonia Sharman channel.
+* He found/stumbled upon it around 2020-2021, likely 2020.
+* He thinks he was around 15 at the time.
+* He was surprised to hear the Sonia Sharman name again.
+* He remembers finding it because someone posted about it on a chat app that no longer exists.
+* The channel had apparently "just been found" at that time.
+
+### Investigator Follow-Up Summary
+
+The investigator explained:
+
+* He found the channel and became curious whether it was an ARG, art project, or something else.
+* He asked about:
+
+  * the app/community where it was found
+  * whether people thought it was fake or an ARG at the time
+  * whether other connected channels/accounts existed
+  * whether Sonia Sharman was already known
+  * whether the whole thing felt real or like a creepy internet mystery
+
+### Isaac's Longer Reply Summary
+
+Isaac says:
+
+* The app was Amino.
+* Amino was organized into subject-based communities and felt like a mix between Reddit and Discord.
+* He does not remember which Amino community it happened in.
+* He says that community/app context likely no longer exists.
+* Someone posted a message in one of the chatrooms about a weird channel they had found.
+* That person interacted briefly, posted the channel link, and then disappeared.
+* This was how Isaac first learned about Sonia Sharman.
+* Few people were interested because:
+
+  * the content was in English
+  * it was very late at night
+
+* In the end, it was mostly Isaac and one random guy investigating.
+* Isaac thinks they later rejoined and investigated together with a few friends he brought in.
+* He says he still has screenshots and documentation, but they are on his computer.
+* He currently lacks access to his charger, but may be able to retrieve something tomorrow by borrowing a friend's charger.
+* At the time, he had recently gotten into ARGs because of a YouTuber who became famous in his country.
+* He felt excited and scared/uneasy about the Sonia Sharman content.
+* He never found a definitive answer on whether it was real or not.
+* He says that makes it either a very good ARG or another internet mystery.
+* He does not clearly remember whether there were other connected accounts.
+* He thinks there may have been other accounts but does not want to give wrong information.
+* He says Sonia was not really "known" at the time.
+* He and his friends were among the first people on the scene.
+* The account was very low-key and did not have a wider audience at the time.
+
+### Important Leads From Isaac
+
+* Amino may be the original discovery point or early spread point.
+* The original person who posted the Sonia Sharman link may be important.
+* Isaac may still have screenshots and documentation from the original investigation.
+* There may have been another investigator and several of Isaac's friends involved.
+* There may have been other related accounts, but Isaac is unsure.
+* Sonia Sharman was apparently obscure when Isaac found it.
+
+### Questions To Ask Isaac Next
+
+Suggested follow-up:
+
+```text
+Hey Isaac,
+
+thank you so much, this already helps a lot.
+
+And yes, I know Amino. That detail is actually really interesting. If you manage to access your computer tomorrow, screenshots would be incredibly helpful, even if they seem messy or incomplete.
+
+The things that would help the most are:
+
+- screenshots of the original Amino chat where the channel was first shared
+- the username/profile of the person who originally posted the Sonia Sharman link
+- any usernames of the people who investigated it with you
+- any screenshots of old notes, decoded messages, comments, related accounts, or theories
+- any links to other YouTube channels/videos/accounts that were mentioned back then
+- whether you remember the name/theme of the Amino community, even vaguely
+- whether anyone claimed to be the creator or knew the creator
+- whether anyone found clues outside YouTube, like Reddit, Amino profiles, other social media, images, or hidden links
+
+Also, do you remember if the channel was already complete when you found it, or were videos still being uploaded while you were investigating?
+
+And one more thing: do the names Sonia, Lucy, Ratchel/Harley Ratchel, Maycon, or Eleanore ring any bell outside the videos themselves? Like usernames, Amino accounts, roleplay characters, or people mentioned by someone in chat?
+
+No rush at all. Even tiny fragments are useful. If you find screenshots tomorrow, you can just send them as they are, and I can sort through them.
+
+Thanks again, seriously. This is probably the first real lead about how the channel originally spread.
+```
+
+### Isaac Creator-Likelihood Assessment
+
+Current assessment: Isaac being the ARG creator is possible but not strongly supported by current evidence.
+
+Factors that could support creator involvement:
+
+* Isaac was present very early and says he and friends were among the first investigators.
+* Isaac's comments are unusually in-universe and sustained.
+* Isaac noticed and engaged with the date contradiction.
+* Isaac had enough interest to follow the channel closely.
+* Isaac may still have extensive screenshots/documentation.
+
+Factors against creator involvement:
+
+* Isaac openly replied years later and provided mundane context.
+* His explanation frames him as a discoverer/investigator, not as a participant.
+* He admits uncertainty instead of over-controlling the narrative.
+* He says another unknown Amino user originally posted the channel.
+* His YouTube comments often read like an engaged viewer trying to understand or roleplay with Sonia, not necessarily a creator directing the story.
+* He says the channel was obscure and that only a small group investigated, which fits an early viewer perspective.
+
+Current working likelihood:
+
+```text
+Low to moderate.
+```
+
+Best next step:
+
+* Wait for Isaac's screenshots or old documentation.
+* Check whether his screenshots show him discovering clues before they were public or coordinating with accounts later shown to be part of the ARG.
+* Identify the original Amino user who posted the Sonia Sharman link.
+
+---
+
+## Upload Timetable
+
+This table shows the apparent upload order of the Sonia Sharman videos/shorts, separate from the discovery order used in the main investigation log.
+
+| Date       | Title                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| 2020-10-22 | `.. / -.. .. -.. -. - / .-- .- -. - / - --- / -.- .. .-.. .-.. / .... . .-. --..-- / -... ..- - /`     |
+| 2020-10-22 | `.... .- .... .- .... .- .... .- .... .- .... .-`                                                      |
+| 2020-10-22 | `-- -.-- / .-. . --. .-. . - / .. ... / - .... .- - / .. / -.- .. .-.. .-.. . -.. / -- -.-- / --. ..`  |
+| 2020-10-22 | `•• •••• •- - • •••• •-•`                                                                              |
+| 2020-10-23 | `.- .-. .-. ..- -- .- -. -.. --- / -- .. -. .... .- ... / -.-. --- .. ... .- ... / .--. .- .-. .- / .` |
+| 2020-10-23 | `.. / .-.. .. . -..`                                                                                   |
+| 2020-10-23 | `.. -- / --. --- .. -. --. / - --- / --. --- / -.-. .-. .- --.. -.-- / .-- .. - .... --- ..- - / .-..` |
+| 2020-10-24 | `.. -- / -. --- - / .- .-.. --- -. .`                                                                  |
+| 2020-10-24 | `.-. .- .. -.`                                                                                         |
+| 2020-10-24 | `. ... - --- ..- / .. -. -.. --- / .--. .- .-. .- / ..- -- / -.-. .- -- .. -. .... --- / ... . -- / .` |
+| 2020-11-05 | `The end of the show`                                                                                  |
+| 2020-11-08 | `How to commit a happy suicide`                                                                        |
