@@ -27,11 +27,12 @@ Collect, organize, and analyze all discovered ARG information.
 * Source 006: YouTube Short, posted 22.10.2020, `MY REGRET IS THAT I KILLED MY GI`
 * Source 007: YouTube Short/Reel, posted 22.10.2020, `HAHAHAHAHAHA`
 * Source 008: Video, posted 23.10.2020, `IM GOING TO GO CRAZY WITHOUT L`
+* Source 009: YouTube Short, posted 23.10.2020, `I LIED`
 
 ### Tracked Names / Entities
 
 * Sonia Sharman: channel identity / possible narrator identity.
-* Maycon: named in hidden Morse; relationship unknown.
+* Maycon: Sonia's friend; Sonia claims he drove with her to burn Harley/Ratchel's corpse.
 * Lucy: Sonia's girlfriend, described as beloved; Sonia claims Lucy was killed after witnessing Ratchel's death.
 * Ratchel / Harley Ratchel / HR: identified in comments as Sonia's cousin and murder victim; Sonia claims Ratchel bullied and outed her.
 * "Her": recurring female target/victim reference; may refer to Ratchel or Lucy depending on context.
@@ -56,7 +57,7 @@ Collect, organize, and analyze all discovered ARG information.
 
 ### Open Questions
 
-* Who is Maycon?
+* What exactly is Maycon's role, and why did he help Sonia?
 * When does "her" refer to Ratchel, and when does it refer to Lucy?
 * Who are "them" in `I WANT THEM TO CATCH ME`?
 * Are the malformed Morse errors accidental, intentional, or part of another cipher layer?
@@ -70,6 +71,7 @@ Collect, organize, and analyze all discovered ARG information.
 * Is `@beckyginger782` part of the ARG or only an engaged viewer?
 * Is `u/aifosofiaaifos` connected to the ARG creator, or are the Portuguese/Chinese/profile-image overlaps coincidental?
 * What exactly is shown on the white blood-covered surface in Source 007?
+* Which parts of Sonia's car/fire story were lies, and which parts are still meant to be true?
 
 ### Future Source Structure
 
@@ -1152,3 +1154,97 @@ You are a good girl!
 * The comments further confirm Lucy as the main object of grief/obsession.
 * The wedding topic appears again.
 * Sonia explicitly says her videos will continue in codes, confirming the coded format as intentional in-universe behavior.
+
+---
+
+### Source 009 — YouTube Short
+
+* Type: YouTube Short
+* Posted: 23.10.2020
+
+#### Short Title (Original Morse)
+
+```text
+.. / .-.. .. . -..
+```
+
+#### Title Translation
+
+```text
+I LIED
+```
+
+#### Short Description (Original Morse)
+
+```text
+.. / .. -- . - / -. . -- .-- / .... -- .-- / - --- / -.. .-. .. ... . .-.-.- / - .- -.- .-. -- . / .... . .-.. .--. . -.. / -- . .-.-. / .. - / .... . .-.. .--. ... / - . / .-- .. - .... / . / .-.. --- - / --- ..-. / - .... .. -. --. ...
+```
+
+#### Description Translation
+
+Literal Morse decoding result:
+
+```text
+I IMET NEMW HMW TO DRISE. TAKRME HELPED ME? IT HELPS TE WITH E LOT OF THINGS
+```
+
+#### Description Analysis
+
+The description is malformed, but likely intended fragments include:
+
+```text
+I [DONT?] KNOW HOW TO DRIVE.
+[MAYCON?] HELPED ME?
+IT HELPS ME WITH A LOT OF THINGS.
+```
+
+Notes:
+
+* `HMW TO DRISE` likely means `HOW TO DRIVE`.
+* `TAKRME` is unclear, but the comment thread identifies Maycon as the person who helped with the car/body situation.
+
+#### Visual/Audio Observations
+
+* The video shows a dark room or black room/light setup.
+* A flashlight points at a white wall.
+* The audio is more notable than the visuals.
+* Drums can be heard:
+
+  * 10 fast hits
+  * then 2 longer hits
+  * this pattern appears twice before the video ends
+
+#### Comments
+
+`@juliettedebackere9599` asks why Sonia lied the first time and asks who "he" is.
+
+Sonia replies:
+
+```text
+I LIED BECAUSE I WANTED TO LOOK COOL. MAYCON IS A FRIEND OF MINE. HE DROVE WITH ME TO THE MIDDLE OF NOWHERE TO BURN HARLEYS CORPSE. THE CAR WAS NOT BURNED, I LIED ABOUT IT TOO
+```
+
+`@juliettedebackere9599` says Sonia does not need to look cool and that they will not judge or bully her.
+
+Sonia replies:
+
+```text
+So can I trust you?
+```
+
+`@juliettedebackere9599` says yes, and mentions following the story since the beginning without insulting Sonia.
+
+Sonia replies:
+
+```text
+thanks
+```
+
+#### Notes
+
+* Maycon is now explicitly identified as Sonia's friend.
+* Sonia claims Maycon drove with her to the middle of nowhere.
+* Sonia claims the purpose was to burn Harley/Ratchel's corpse.
+* Sonia now says the car was not burned, contradicting the earlier claim that she set the car on fire with the body inside.
+* Sonia says she lied to look cool.
+* Juliettedebackere continues to act as a sympathetic/empathetic commenter rather than hostile investigator.
