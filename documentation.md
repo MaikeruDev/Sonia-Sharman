@@ -38,9 +38,12 @@ Collect, organize, and analyze all discovered ARG information.
 
 * Sonia Sharman: channel identity / possible narrator identity.
 * Maycon: Sonia's friend; Sonia claims he drove with her to burn Harley/Ratchel's corpse; later said to have gone back to his girlfriend's house.
+* Maycon's bully: mentioned in Isaac's old notes as someone Sonia may have killed for Maycon.
+* Maycon's brother: mentioned in Isaac's old notes / screenshot as another possible victim.
 * Eleanore: new girl mentioned in Source 012; Sonia says Eleanore is helping her and may also have police problems.
 * Lucy: Sonia's girlfriend, described as beloved; Sonia claims Lucy was killed after witnessing Ratchel's death.
 * Ratchel / Harley Ratchel / HR: identified in comments as Sonia's cousin and murder victim; Sonia claims Ratchel bullied and outed her.
+* Unknown Amino poster: account that allegedly first posted the Sonia Sharman channel link on Amino; reportedly created one day before the discovery.
 * "Her": recurring female target/victim reference; may refer to Ratchel or Lucy depending on context.
 * "Them": mentioned in the channel description; unclear whether this refers to viewers, police, bullies, or another group.
 
@@ -48,6 +51,7 @@ Collect, organize, and analyze all discovered ARG information.
 
 * `@selection1445`: asks several in-universe questions about Ratchel, Lucy, the police, and the car; has a related-looking YouTube video titled `leaving`.
 * `@juliettedebackere9599` / Isaac Debackere: asks about Sonia's crash and notices a date contradiction.
+* `@Abdon Kodda`: name appears in Isaac's old notes as a commenter identity tied to some questions we currently documented under other YouTube comments; needs verification.
 * `@beckyginger782`: comments on Lucy and asks Sonia to stop communicating only in Morse; account joined 23.10.2020.
 * `u/aifosofiaaifos`: Reddit user who appears to have posted/found the Sonia Sharman channel; possible but unconfirmed ARG connection.
 
@@ -64,8 +68,11 @@ Collect, organize, and analyze all discovered ARG information.
 ### Open Questions
 
 * What exactly is Maycon's role, and why did he help Sonia?
+* Who was Maycon's bully, and was that person actually killed?
+* Who was Maycon's brother, and what happened to him?
 * When does "her" refer to Ratchel, and when does it refer to Lucy?
 * Who are "them" in `I WANT THEM TO CATCH ME`?
+* Who was the unknown Amino user who first posted the Sonia Sharman link?
 * Are the malformed Morse errors accidental, intentional, or part of another cipher layer?
 * What was the planned wedding/relationship referenced in Source 006?
 * What is the significance of the car in the grass field at the end of Source 006?
@@ -1781,3 +1788,308 @@ Important caution:
 * This is only a thematic overlap.
 * It does not prove Sofia Debossan created or participated in the ARG.
 * The Pinterest page could not be independently verified in this environment because the site returned a `403 Forbidden` response.
+
+---
+
+## External Contact Update — Isaac's Old Files
+
+### Context
+
+Isaac replied again on 12.05.2026 and sent old files from his 2020 investigation. He said the material includes screenshots from back then and a document he translated into English because his original notes were in French.
+
+Isaac's message summary:
+
+* He was busy and only accessed his laptop later in the evening.
+* He sent all the information his group had gathered at the time.
+* He warned that the conclusion might not be satisfying.
+* He included screenshots and an English-translated document.
+
+My follow-up questions to Isaac:
+
+* I asked whether the conversations with Sonia happened in DMs, Instagram, or somewhere else.
+* I asked why he screenshotted the `lol` comment, since it does not seem to be visible anymore.
+* I asked about Maycon's brother and whether Sonia also killed him.
+* I asked about the `selection` / `@selection1445` account and whether Isaac thinks it is related.
+
+### Files Received
+
+Local folder:
+
+```text
+pictures/juliettedebackere9599/email-files/
+```
+
+Files:
+
+* `car - original image.jpg`
+* `car - over saturated.jpg`
+* `convo w Sonia.png`
+* `death count.png`
+* `lol.png`
+* `original picture Sonia.jpg`
+* `Sonia's picture - over saturated.jpg`
+* `Sonia Sharman - A Mystery.odt`
+
+### Image Evidence From Isaac
+
+#### Car Frame
+
+Original image:
+
+![Car original image from Isaac](pictures/juliettedebackere9599/email-files/car%20-%20original%20image.jpg)
+
+Over-saturated image:
+
+![Car over saturated image from Isaac](pictures/juliettedebackere9599/email-files/car%20-%20over%20saturated.jpg)
+
+Notes:
+
+* Isaac identified the brief black-and-white image as a car.
+* This likely corresponds to the car image that appears briefly in Source 006.
+* Important correction: the image I originally interpreted as a possible head/knife/skull-like shape may actually be an over-saturated or high-contrast view of the car.
+* This connects the car imagery earlier than I realized.
+
+#### Conversation With Sonia
+
+![Conversation with Sonia screenshot](pictures/juliettedebackere9599/email-files/convo%20w%20Sonia.png)
+
+Visible text:
+
+```text
+I would love to kiss Lucy now, but I don't even want to kiss her corpse. I wish she was alive to do that
+```
+
+The reply tells Sonia she cannot undo what happened and needs to go on living for her own good. The final visible message asks:
+
+```text
+Sonia ?
+```
+
+Notes:
+
+* This appears to be a private conversation or DM-style exchange with Sonia.
+* Platform is currently unknown.
+* This strongly supports Isaac's claim that he had direct contact beyond public YouTube comments.
+
+#### Death Count Screenshot
+
+![Death count screenshot](pictures/juliettedebackere9599/email-files/death%20count.png)
+
+Visible text:
+
+```text
+His brother was a douchebag. So, he is the fourth that you killed right? If I keep the count well
+```
+
+Sonia replies:
+
+```text
+Yes
+```
+
+Then she adds:
+
+```text
+Thank you [redacted/covered]
+It's very difficult for me but I always find a way
+```
+
+Notes:
+
+* This introduces or supports the idea that Maycon's brother may be another victim.
+* The count suggests four victims at that point.
+* This is a major new clue and needs clarification from Isaac.
+
+#### `lol` Comment Screenshot
+
+![Sonia lol comment screenshot](pictures/juliettedebackere9599/email-files/lol.png)
+
+Observations:
+
+* Screenshot shows the Sonia Sharman YouTube channel/video interface in French.
+* A comment by Sonia Sharman says:
+
+```text
+Lol
+```
+
+* The screenshot appears to show the comment was posted `il y a 1 jour` / "1 day ago."
+* It is unclear when Isaac took the screenshot.
+* This comment does not appear to be visible now.
+
+Possible relevance:
+
+* Could indicate Sonia returned to the account after the main activity.
+* Could be a sign-of-life style comment.
+* Could also be a normal deleted/hidden/old comment with no deeper meaning.
+
+#### Sonia Profile Picture
+
+Original:
+
+![Original Sonia profile picture from Isaac](pictures/juliettedebackere9599/email-files/original%20picture%20Sonia.jpg)
+
+Over-saturated:
+
+![Over-saturated Sonia profile picture from Isaac](pictures/juliettedebackere9599/email-files/Sonia%27s%20picture%20-%20over%20saturated.jpg)
+
+Notes:
+
+* The image shows a very dark close-up face/profile image.
+* The over-saturated version makes glasses and face shape more visible.
+* I do not currently see a clear hidden clue in the profile picture itself.
+
+### ODT Document — Isaac's 2020 Interpretation
+
+File:
+
+```text
+pictures/juliettedebackere9599/email-files/Sonia Sharman - A Mystery.odt
+```
+
+The document appears to be Isaac's old investigation summary, translated into English.
+
+#### Important New Information
+
+The ODT says:
+
+* The Sonia Sharman channel was found because an account posted it on Amino.
+* That Amino account had been created only one day earlier, on 21.10.2020.
+* Isaac's group suspected the Amino account might be the owner/creator of the Sonia Sharman channel because it seemed to know too much.
+* The early group identified these people:
+
+  * Sonia Sharman
+  * Ratchel Harley / HR, Sonia's cousin
+  * Lucy, Sonia's girlfriend
+  * Maycon, accomplice
+  * Maycon's bully
+  * Eleanore, Sonia's friend/on the run
+  * Maycon's brother
+
+#### Decoding Differences / Better Reads Compared To Current Notes
+
+Isaac's ODT contains cleaner reconstructions for several corrupted descriptions:
+
+Source 002 description, according to Isaac:
+
+```text
+I LOVED THAT GIRL, BUT SHE SAW WHAT I DID TO MY COUSIN. I CRIED SO MUCH AFTER I KILLED HER.
+```
+
+This is much clearer than my current raw malformed decode for Source 002 and fits the later Lucy/Ratchel story.
+
+Source 006 / regret short description, according to Isaac:
+
+```text
+WE WERE PLANNING OUR WEDDING SOMETIME WHEN WE GOT OLDER, BUT THAT BITCH NAMED HARLEY HAD TO SHOW UP TO SCREW IT UP. I DONT REGRET KILLING HER
+```
+
+This confirms the wedding interpretation and gives a cleaner form of the Harley/Ratchel conflict.
+
+Source 008 description, according to Isaac:
+
+```text
+I WANT HER, PLEASE BRING ME LUCY BACK I CANT I CANT BE WITHOUT HER SHES EVERYTHING BUT I DONT WANT HER TO BE AFRAID OF ME SHE WAS AFRAID OF ME I NEED MY LUCY LUCY LUCY [...]
+```
+
+This confirms that repeated `LURK` was likely intended as repeated `LUCY`.
+
+Source 009 description, according to Isaac:
+
+```text
+I DONT KNOW HOW TO DRIVE. MAYCON HELPED ME. IT HELPS ME WITH A LOT OF THINGS
+```
+
+This confirms the likely meaning of the malformed description.
+
+Source 003 / Portuguese-title video description, according to Isaac:
+
+```text
+MAYCON WILL TAKE ME TO ANOTHER CITY. I WILL LIVE ALONE. THE POLICE ARE LOOKING FOR LUCY BUT NO ONE HAS MISSED HARLEY YET. FROM TOMORROW I WILL RECORD MY
+```
+
+This is much cleaner than my earlier partial reconstruction.
+
+The ODT also notes the phrase:
+
+```text
+RATCHER5ALEY
+```
+
+as an unknown term/fragment from the `HAHAHAHAHAHA` source. Isaac wondered why a `5` appeared in the middle of the sentence and whether it could point to a fifth video.
+
+#### Direct Contact / DM Story From Isaac's Notes
+
+Isaac's ODT claims he had a conversation with Sonia and learned:
+
+* Sonia and Maycon were going on the run.
+* Maycon was Sonia's friend.
+* Maycon was 16 years old, older than Sonia.
+* Maycon helped Sonia because she apparently killed his bully.
+* Sonia was not sure how many people she had killed because she dissociated.
+* Sonia estimated the number of victims around four.
+* Sonia was mentally ill in the in-universe story.
+* Sonia believed she had dissociated two years of her life and thought she was living in 2018.
+* Sonia claimed she performed a ritual from an obscure book to send herself back in time and prevent Lucy from dying.
+* The ritual did not work, but Sonia still could not accept that it was 2020.
+* Sonia appeared to be drugged with pills, worsening the delusions.
+* Maycon was not delusional and knew it was 2020.
+* Isaac says Maycon told him this directly.
+* Sonia and Maycon then left to go on the run, and Isaac received no news afterward.
+
+This is a major expansion of the in-universe story and may explain the repeated June 2018 / October 2020 contradiction.
+
+### New / Changed Understanding
+
+Important updates from Isaac's files:
+
+* The unknown Amino poster is now more suspicious than before because the account was allegedly created one day before sharing the channel.
+* Isaac likely had private contact with Sonia, not just YouTube comments.
+* There may be four victims in the in-universe count.
+* Maycon's bully and Maycon's brother may be additional victims.
+* The car image may have been present earlier than I realized, including in a frame I misidentified.
+* Several corrupted Morse descriptions have much cleaner historical reconstructions from Isaac's notes.
+* The 2018/2020 contradiction may be tied to an in-universe failed time-travel/ritual delusion.
+
+### Differences / Conflicts With Current Documentation
+
+* Current documentation treats several descriptions as unresolved or only partially reconstructed; Isaac's ODT provides cleaner versions.
+* Current documentation lists `@selection1445`, but Isaac's ODT mentions `@Abdon Kodda` for some comments. This may be an old display name, a different commenter, or a mismatch that needs checking.
+* Current documentation has `Ratchel / Harley Ratchel`; Isaac's ODT writes `Ratchel Harley`, `HR`, and sometimes `Harley`.
+* Current documentation treats the car burning story as contradictory; Isaac's ODT preserves both the old claim and the later correction that the car was not burned.
+* Current documentation does not yet fully integrate the ritual/time-travel explanation.
+
+### Creator-Likelihood Update
+
+Isaac being the creator still seems possible but not strongly supported.
+
+The new files make Isaac look more like an early investigator with unusually deep access, especially if the private conversation screenshots are authentic. They do not prove he created the ARG.
+
+The unknown Amino account is now a stronger creator lead than Isaac because:
+
+* it allegedly appeared one day before the channel was shared
+* it posted the channel very early
+* Isaac's group already suspected it knew too much
+* it disappeared after briefly interacting and sharing the link
+
+Current working assessment:
+
+```text
+Isaac creator likelihood: low to moderate.
+Unknown Amino poster creator likelihood: moderate, pending screenshots.
+```
+
+### Follow-Up Questions For Isaac
+
+Important next questions:
+
+* What platform were the private conversations with Sonia on?
+* Did Isaac ever talk directly to Maycon?
+* Does Isaac still have screenshots showing Maycon speaking?
+* Who was Maycon's brother?
+* Who was Maycon's bully?
+* Was the "fourth victim" Maycon's brother, Maycon's bully, or someone else?
+* Why did Isaac screenshot the `Lol` comment?
+* When was the `Lol` screenshot taken?
+* Was `@Abdon Kodda` the same person as `@selection1445`, or a different commenter?
+* Does Isaac have the Amino screenshot with the original poster's username?
